@@ -4,3 +4,6 @@ Komenda: /popelnijs
 
 Wymagania:
 - Helpnotification
+
+Preview:
+- https://streamable.com/uw32tn
